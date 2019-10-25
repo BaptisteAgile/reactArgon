@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/baptistehurier/Documents/Pro/reactProject/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/baptistehurier/Documents/Pro/reactProject/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/Optional.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/Portability.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/CPortability.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/Traits.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/Utility.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/baptistehurier/Documents/Pro/reactProject/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h
